@@ -1,3 +1,7 @@
+
+# NOTE. THIS IS JUST A COMPILED VERSION OF THE SOURCE. THE ORIGINAL SOURCE CODE CAN BE FOUND HERE 
+https://github.com/GalaxySwapperOfficial/Galaxy-Swapper-v2
+
 # Galaxy Swapper v3!
 
 This version does not contain the Bitcoin miner found in the previous version of Galaxy Swapper v2
